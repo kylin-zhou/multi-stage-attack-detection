@@ -6,8 +6,10 @@ The realted program of multi-stage-attack-detection.
 
 
 all code can run in google colab;\
-The original DARPA dataset can be obtained [here](https://archive.ll.mit.edu/ideval/data/2000data.htmldataset);\
-preprocessed csv file can be obtained [here](https://drive.google.com/file/d/1uYQF-sNEuWcvzyCzrE1HBRJsXKknN432/view?usp=sharing)
+
+IDS 2012 dataset:
+The original dataset can be obtained from [here](https://www.unb.ca/cic/datasets/ids.html)
+preprocessed csv file can be obtained [here](https://drive.google.com/file/d/1fbkf9Z5cDJrmlRTF3uiaqYEbSGPl12z9/view?usp=sharing)
 
 
 ### Cite this work
